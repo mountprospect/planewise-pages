@@ -17,9 +17,9 @@ body {
     color: #ffffff;
 }
 
-.coreFeatures ul {
+/* .coreFeatures ul {
         display: flex;
-        align-items: stretch; /* Default */
+        align-items: stretch;
         justify-content: space-between;
         width: 100%;
         margin: 0;
@@ -32,7 +32,8 @@ body {
     padding-left: 2rem;
     background-image: url(../planewise/Assets/connecting_airports_black_24dp.svg);
     background-repeat: no-repeat;
-}
+} 
+*/
 
 
 .features {
