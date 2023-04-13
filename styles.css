@@ -55,3 +55,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.gallery {
+    background-color: rgba(206, 206, 206, 0.666);
+
+}
+
+.gallery img {
+    border-radius: 5%;
+}
